@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=E0E0E0&center=true&vCenter=true&width=650&lines=%3E+root%40prostosanya%3A~%23+whoami;%3E+Разработчик+ботов%2C+сервисов+и+автоматизаций;%3E+Основатель+sparta-project.ru;%3E+Стек%3A+Python+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%3E+%C2%ABПросто.+Чисто.+Работает.%C2%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=E0E0E0&center=true&vCenter=true&width=650&lines=%3E+root%40prostosanya%3A~%23+whoami;%3E+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B1%D0%BE%D1%82%D0%BE%D0%B2%2C+%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BE%D0%B2+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9;%3E+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+sparta-project.ru;%3E+%D0%A1%D1%82%D0%B5%D0%BA%3A+Python+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%3E+%C2%AB%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE.+%D0%A7%D0%B8%D1%81%D1%82%D0%BE.+%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82.%C2%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -88,13 +88,13 @@ const developer: Developer = {
 
 <br/>
 
-<!-- Карточки репозиториев (замени ИМЯ_РЕПОЗИТОРИЯ на свои реальные репозитории) -->
+<!-- Карточки репозиториев -->
 <div align="center">
-  <a href="https://github.com/sashasashaYT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=sashasashaYT&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
+  <a href="https://github.com/sashasashaYT/Universal-Proxy-Client-Rotator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=Universal-Proxy-Client-Rotator&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
   </a>
-  <a href="https://github.com/sashasashaYT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=sparta-project&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
+  <a href="https://github.com/sashasashaYT/AntiDDoS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=AntiDDoS&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
   </a>
 </div>
 
