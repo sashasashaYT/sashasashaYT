@@ -1,149 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,45:1f1f1f,80:4d4d4d,100:bfbfbf&height=220&section=header&text=PROSTO%20SANYA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20WEB&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,35:141414,70:2b2b2b,100:8c8c8c&height=220&section=header&text=PROSTO%20SANYA&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20BOTS&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=CCCCCC&center=true&vCenter=true&width=700&lines=%3E+root%40prostosanya%3A~%23+whoami;%3E+Разработчик+ботов%2C+сайтов+и+автоматизаций;%3E+Создатель+sparta-project.ru;%3E+Люблю+чистый+код+и+минимализм;%3E+Просто.+Чисто.+Работает." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=E0E0E0&center=true&vCenter=true&width=650&lines=%3E+root%40prostosanya%3A~%23+whoami;%3E+Разработчик+ботов%2C+сервисов+и+автоматизаций;%3E+Основатель+sparta-project.ru;%3E+Стек%3A+Python+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%3E+%C2%ABПросто.+Чисто.+Работает.%C2%BB" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sashasashaYT&style=flat-square&color=333333&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/sashasashaYT?style=flat-square&color=4d4d4d&labelColor=1a1a1a&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/sashasashaYT?style=flat-square&color=666666&labelColor=1a1a1a&label=STARS" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-1a1a1a?style=flat-square&color=bfbfbf" />
+  <img src="https://komarev.com/ghpvc/?username=sashasashaYT&style=flat-square&color=262626&labelColor=0d0d0d&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/sashasashaYT?style=flat-square&color=262626&labelColor=0d0d0d&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/sashasashaYT?style=flat-square&color=262626&labelColor=0d0d0d&label=STARS" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECTS-ffffff?style=flat-square&labelColor=0d0d0d&color=2b2b2b" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e0e0e0,100:000000&height=2" width="100%" />
+<br/>
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4d4d4d,100:000000&height=2" width="100%" />
 
-### 🌑 Система
+### 🌑 Терминал
 
-```ts
-interface Developer {
-  alias: "Prosto Sanya";
-  location: "Russia";
-  domains: ["prostosanya.ru", "sparta-project.ru"];
-  specialization: ["Telegram/Discord Bots", "Automation", "Web Development"];
-  currentFocus: "Масштабирование Sparta Project";
-  credo: "Просто. Чисто. Работает.";
-  collab: "Open to interesting projects";
-}
+```typescript
+const developer: Developer = {
+  alias: "Prosto Sanya",
+  location: "Russia",
+  domains: ["prostosanya.ru", "sparta-project.ru"],
+  specialization: [
+    "Telegram & Discord Bots", 
+    "Process Automation & Parsers", 
+    "Fullstack Web Development"
+  ],
+  currentFocus: "Развитие и масштабирование Sparta Project",
+  credo: "Просто. Чисто. Работает.",
+  collab: "Открыт для интересных заказов и pet-проектов"
+};
 ```
 
-### 💡 Немного обо мне
+---
 
-- 🔭 Сейчас развиваю **sparta-project.ru**
-- ⚙️ Пишу ботов и системы автоматизации под заказ
-- 🌐 Делаю сайты «под ключ» — от лендинга до бэкенда
-- 📚 Постоянно изучаю новые инструменты и подходы
-- 🎯 Цель — простые решения сложных задач
+### 💡 Чем занимаюсь
 
-    </td>
-    <td width="45%" valign="top">
+- ⚡ **Telegram & Discord боты:** разработка архитектуры, сложных сценариев, интеграция платёжных систем и баз данных.
+- ⚙️ **Автоматизация и интеграции:** парсинг данных, синхронизация API, скрипты для рутинных задач.
+- 🌐 **Веб-разработка:** создание сайтов и сервисов под ключ — от архитектуры до деплоя на сервер.
+- 🚀 **Sparta Project:** флагманский проект, разработка и постоянное улучшение экосистемы.
 
-### ⚙️ Стек и Инструменты
+---
+
+### 🛠️ Стек и Технологии
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,git,linux,vscode,docker,discord,telegram&theme=dark&perline=4" />
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css&theme=dark" /><br/>
+  <br/>
+  <!-- Frameworks, Infra & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,git,vscode&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Bots-0d0d0d?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web_Dev-262626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-404040?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-595959?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Integration-737373?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-0d0d0d?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-1a1a1a?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async_Architecture-262626?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Integration-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps_&_CI/CD-404040?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-    </td>
-  </tr>
-</table>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e0e0e0,100:000000&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4d4d4d,100:000000&height=2" width="100%" />
 
-### 🚀 Главные проекты
+### 🚀 Избранные проекты
 
 <div align="center">
-  <a href="https://sparta-project.ru">
-    <img src="https://img.shields.io/badge/⚡_SPARTA_PROJECT-sparta--project.ru-ffffff?style=for-the-badge&labelColor=0d0d0d&color=d9d9d9" height="38" />
+  <a href="https://sparta-project.ru" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_SPARTA_PROJECT-sparta--project.ru-0d0d0d?style=for-the-badge&labelColor=000000&color=2e2e2e" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://prostosanya.ru">
-    <img src="https://img.shields.io/badge/🌐_PERSONAL_SITE-prostosanya.ru-ffffff?style=for-the-badge&labelColor=1f1f1f&color=a6a6a6" height="38" />
+  <a href="https://prostosanya.ru" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-prostosanya.ru-0d0d0d?style=for-the-badge&labelColor=000000&color=2e2e2e" height="40" />
   </a>
 </div>
 
 <br/>
 
+<!-- Карточки репозиториев (замени ИМЯ_РЕПОЗИТОРИЯ на свои реальные репозитории) -->
 <div align="center">
-  <a href="https://github.com/sashasashaYT/РЕПО_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=РЕПО_1&bg_color=35,080808,1f1f1f,383838&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=333333&border_radius=10" />
+  <a href="https://github.com/sashasashaYT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=sashasashaYT&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
   </a>
-  <a href="https://github.com/sashasashaYT/РЕПО_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=РЕПО_2&bg_color=145,080808,1f1f1f,383838&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=333333&border_radius=10" />
+  <a href="https://github.com/sashasashaYT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=sparta-project&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e0e0e0,100:000000&height=2" width="100%" />
+<br/>
 
-### 📊 Метрики и Активность
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4d4d4d,100:000000&height=2" width="100%" />
+
+### 📊 Статистика активности
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashasashaYT&show_icons=true&bg_color=45,050505,1c1c1c,3d3d3d&title_color=ffffff&text_color=cccccc&icon_color=e6e6e6&border_color=333333&border_radius=12&rank_icon=github&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashasashaYT&layout=compact&langs_count=6&bg_color=135,050505,1c1c1c,3d3d3d&title_color=ffffff&text_color=cccccc&border_color=333333&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sashasashaYT&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&border_color=262626&border_radius=10&rank_icon=github&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashasashaYT&layout=compact&langs_count=6&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&border_color=262626&border_radius=10" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sashasashaYT&theme=dark&background=45%2C050505%2C262626&border=333333&border_radius=12&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=666666" width="76%" />
+  <img src="https://streak-stats.demolab.com?user=sashasashaYT&theme=dark&background=0d0d0d&border=262626&border_radius=10&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555" width="82%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashasashaYT&bg_color=080808&color=999999&line=e6e6e6&point=ffffff&area=true&area_color=404040&hide_border=false&border_color=262626&radius=12" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashasashaYT&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&border_color=262626&radius=10" width="94%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sashasashaYT&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="90%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4d4d4d,100:000000&height=2" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e0e0e0,100:000000&height=2" width="100%" />
-
-### 🤝 Связь
+### 🤝 Контакты
 
 <div align="center">
-  <a href="https://t.me/sashageniu17">
-    <img src="https://img.shields.io/badge/Telegram-@sashageniu17-141414?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=050505" />
+  <a href="https://t.me/sashageniu17" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@sashageniu17-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=000000" />
   </a>
+  &nbsp;
   <a href="mailto:owner@prostosanya.ru">
-    <img src="https://img.shields.io/badge/Email-owner@prostosanya.ru-292929?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f0f0f" />
+    <img src="https://img.shields.io/badge/Email-owner@prostosanya.ru-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" />
   </a>
-  <a href="https://prostosanya.ru">
-    <img src="https://img.shields.io/badge/Web-prostosanya.ru-3d3d3d?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1a1a1a" />
+  &nbsp;
+  <a href="https://prostosanya.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Website-prostosanya.ru-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>⭐ Если тебе понравился один из моих проектов — поставь звезду!</i>
+  <sub>⭐ Понравился проект? Не забудь поставить звезду репозиторию!</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:bfbfbf,20:4d4d4d,55:1f1f1f,100:000000&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:8c8c8c,30:2b2b2b,65:141414,100:000000&height=90&section=footer" width="100%" />
 </div>
