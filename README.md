@@ -53,10 +53,8 @@ const developer: Developer = {
 ### 🛠️ Стек и Технологии
 
 <div align="center">
-  <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css&theme=dark" /><br/>
   <br/>
-  <!-- Frameworks, Infra & Tools -->
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,git,vscode&theme=dark" />
 </div>
 
@@ -88,7 +86,6 @@ const developer: Developer = {
 
 <br/>
 
-<!-- Карточки репозиториев -->
 <div align="center">
   <a href="https://github.com/sashasashaYT/Universal-Proxy-Client-Rotator" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sashasashaYT&repo=Universal-Proxy-Client-Rotator&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0&icon_color=e0e0e0&border_color=262626&border_radius=8" />
